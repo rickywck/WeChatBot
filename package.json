@@ -1,0 +1,20 @@
+{
+  "name": "wechatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder-wechat-connector": "^1.0.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "restify": "^6.3.4",
+    "watson-developer-cloud": "^3.0.6",
+    "wechat": "^2.1.0",
+    "wechat-api": "^1.35.1"
+  }
+}
